@@ -1,0 +1,13 @@
+{
+  "name": "hardhat-project",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.1",
+    "@openzeppelin/contracts-upgradeable": "^5.0.1",
+    "cors": "^2.8.5",
+    "ethers": "^6.9.0",
+    "hardhat": "^2.19.2"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0"
+  }
+}
